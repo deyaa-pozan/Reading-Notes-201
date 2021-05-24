@@ -7,8 +7,8 @@
 | :---     | :----:  |      ---: |
 |   1      |Read: 01 | [class-01.md](class-01)   |
 |   2      |Read: 02 |[class-02.md](class-02)|
-|   3      |Read: 03 |[LearningJournal.md](LearningJournal)|
-|   4      |         |           |
+|   3      |Read: 03 |[Read-03.md](Read-03)|
+|   4      |Read: 04 | [LearningJournal.md](LearningJournal) |
 |   5      |         |           |
 |   6      |         |           |
 |   7      |         |           |
