@@ -1,21 +1,21 @@
-# *Text Summerization:*
+# * Text Summerization: *
 
-### <strong> :
- `The use of the <strong> element indicates that its`
-`content has strong importance`
+### `<strong>` :
+ ` The use of the <strong> element indicates that its `
+` content has strong importance `
 
-### <em> :
+### `<em>` :
  `The <em> element indicatesemphasis that subtly changes`
 `the meaning of a sentence.`
 
-### <blockquote> :
+### `<blockquote> `:
 `element isused for longer quotes that takeup an entire`
 
-### <address> element has
-`quite a specific use: to containcontact details for the author of`
+### `<address>` :
+`element has quite a specific use: to containcontact details for the author of`
 `the page.`
 
-### <cite>
+### `<cite>`:
 `element can be used to indicate where the citation is from when write` `a name of a film or a book.`
 
 -------------------------------
