@@ -38,9 +38,8 @@
   1. Multi-Line : `/* any comment*/`
   2. Single-Line : `// any line of code`
 * Variable is a place where the information being stored.
-* The default value of the variable before defining is ***undefined***
+* The default value of the variable before defining is `undefined`
 
-* Each opened `(`,`"`,`'`,`{` should has a closing part similar to it.
 * To escape the jub of qutations or similar things we can use  `\` for that.
 #### To determine which path to take:
   1. EVALUATIONS You can analyze values in your scripts to determine whether or note they match expected results. 
