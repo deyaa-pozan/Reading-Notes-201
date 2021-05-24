@@ -5,7 +5,7 @@
 
 | num task |  task   |    url    |
 | :---     | :----:  |      ---: |
-|   1      |Read: 02 | [class-02.md](https://deyaa-pozan.github.io/Reading-Notes-201/)   |
+|   1      |Read: 02 | [class-02.md](class-02)   |
 |   2      |         |           |
 |   3      |         |           |
 |   4      |         |           |
