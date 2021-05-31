@@ -12,7 +12,7 @@
 |   5      |Read: 05 |[Read-05.md](Read-05)|
 |   6      |Read: 06 |[Read-06.md](Read-06)|
 |   7      |Read: 07 |[Read-07.md](Read-07)|
-|   8      |         |           |
+|   8      |Read: 08 |[Read-08.md](Read-08)|
 |   9      |         |           |
 |   10     |         |           |
 |   11     |         |           |
