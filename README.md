@@ -14,7 +14,7 @@
 |   7      |Read: 07 |[Read-07.md](Read-07)|
 |   8      |Read: 08 |[Read-08.md](Read-08)|
 |   9      |Read: 09 |[Read-09.md](Read-09)|
-|   10     |         |           |
+|   10     |Read: 10 |[Read-10.md](Read-10)|
 |   11     |         |           |
 |   12     |         |           |
 |   13     |         |           |
