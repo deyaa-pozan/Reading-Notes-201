@@ -16,7 +16,7 @@
 |   9      |Read: 09 |[Read-09.md](Read-09)|
 |   10     |Read: 10 |[Read-10.md](Read-10)|
 |   11     |Read: 11 |[Read-11.md](Read-11)|
-|   12     |         |           |
+|   12     |Read: 12 |[Read-12.md](Read-12)|
 |   13     |         |           |
 |   14     |         |           |
 |   15     |         |           |
